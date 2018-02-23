@@ -19,7 +19,7 @@
   <issue>https://github.com/EddyVerbruggen/cordova-plugin-googleplus/issues</issue>
 
   <engines>
-    <engine name="cordova" version=">=3.5.0"/>
+    <engine name="cordova" version=">=7.1.0"/>
   </engines>
 
   <js-module src="www/GooglePlus.js" name="GooglePlus">
