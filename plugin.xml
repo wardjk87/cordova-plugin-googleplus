@@ -31,7 +31,7 @@
 
     <framework src="com.google.android.gms:play-services-auth:$Play_Services_Version" />
     <framework src="com.google.android.gms:play-services-identity:$Play_Services_Version" />
- 	<preference name="Play_Services_Versio" default="11.6.2"/>
+ 	<preference name="Play_Services_Version" default="11.6.2"/>
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="GooglePlus">
         <param name="android-package" value="nl.xservices.plugins.GooglePlus" />
